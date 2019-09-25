@@ -27,6 +27,15 @@ Mindboggle-MixedModels
 .. image:: https://img.shields.io/badge/License-BSD%203--Clause-blue.svg
     :alt: License
     :target: https://opensource.org/licenses/BSD-3-Clause
+    
+.. image:: https://img.shields.io/docker/cloud/automated/peerherholz/eegprep
+    :alt: Dockerbuild
+    :target: https://cloud.docker.com/u/peerherholz/repository/docker/peerherholz/mindboggle-mm
+
+.. image:: https://img.shields.io/docker/pulls/peerherholz/eegprep
+    :alt: Dockerpulls
+    :target: https://cloud.docker.com/u/peerherholz/repository/docker/peerherholz/mindboggle-mm
+    
 
 
 A BIDSapp for automated mixed model analyses of mindboggle outputs.
