@@ -7,7 +7,7 @@ Mindboggle-MixedModels
 
 .. image:: https://img.shields.io/pypi/v/mindboggle-mixedmodels.svg
         :target: https://pypi.python.org/pypi/mindboggle-mixedmodels
-        
+
 .. image:: https://img.shields.io/github/issues-pr/C0C0AN/Mindboggle-MixedModels.svg
     :alt: PRs
     :target: https://github.com/C0C0AN/Mindboggle-MixedModels/pulls/
@@ -36,6 +36,10 @@ Mindboggle-MixedModels
     :alt: Dockerpulls
     :target: https://cloud.docker.com/u/peerherholz/repository/docker/peerherholz/mindboggle-mm
     
+
+.. image:: https://upload.wikimedia.org/wikipedia/commons/7/74/Zotero_logo.svg
+    :alt: Zotero
+    :target: https://www.zotero.org/groups/2385122/mindboggle-mixedmodels
 
 
 A BIDSapp for automated mixed model analyses of mindboggle outputs.
